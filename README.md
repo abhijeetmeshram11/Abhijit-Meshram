@@ -11,6 +11,9 @@ The dataset contains main Data folder in which it has 2 sub-folders: yes and no 
 
 1240 positive and 1078 negative examples, resulting in 253 example images.
 
+## Before Use Please follow this step
+* Un-Zip "yes" file and "no" file and put in "train folder" path is = data -> train
+* Un-Zip "test" file path is = data -> test
 
 ## Data Preprocessing
 
